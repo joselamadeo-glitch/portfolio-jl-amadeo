@@ -1,9 +1,9 @@
-# José Luis Amadeo | Business Intelligence & Gestión Hospitality
+# José Luis Amadeo | Gestión Hotelera
 
-Bienvenido a mi portfolio profesional. Aquí encontrarás mis proyectos de análisis de datos y consultoría operativa.
+Bienvenido a mi portfolio profesional. Aquí encontrarás mis proyectos de análisis de datos y mi trayectoria.
 
 ### 🛠️ Tecnologías y Herramientas
-- **Data & BI:** Power BI, Excel Avanzado, SQL.
+- **Data & BI:** Power BI, Excel Avanzado
 - **Gestión:** Análisis P&L, Control de Costos, Revenue Management.
 - **Web:** React.js (este portfolio está construido con React).
 
